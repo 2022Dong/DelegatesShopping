@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesShoppingUI", "DelegatesShoppingUI\DelegatesShoppingUI.csproj", "{A7665661-05AF-481D-9903-7EF77FB438A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{D5E7EF1D-E4A4-4760-872B-5E4EEA7A519B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7665661-05AF-481D-9903-7EF77FB438A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7665661-05AF-481D-9903-7EF77FB438A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7665661-05AF-481D-9903-7EF77FB438A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7665661-05AF-481D-9903-7EF77FB438A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E7EF1D-E4A4-4760-872B-5E4EEA7A519B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E7EF1D-E4A4-4760-872B-5E4EEA7A519B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E7EF1D-E4A4-4760-872B-5E4EEA7A519B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E7EF1D-E4A4-4760-872B-5E4EEA7A519B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1555F87E-19BA-44C5-A92C-4525F3640309}
+	EndGlobalSection
+EndGlobal
