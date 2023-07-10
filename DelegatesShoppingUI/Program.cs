@@ -17,6 +17,7 @@ namespace DelegatesShoppingUI
             // Standard numeric format strings: formats a numeric value as a currency string, 2 # after the decimal point.
             // NO white space after C2 - part of format.
             // SubToalAlert NO(), only matters the signature eg. pass in decimal type, return void.
+            // ;
             Console.WriteLine($"The total for the cart is {cart.GenerateTotal(SubToalAlert, CalculateLeveledDiscount, AlerUser):C2}");
             Console.WriteLine();
 
