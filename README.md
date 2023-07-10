@@ -1,7 +1,7 @@
 # DelegatesShopping
 Delegates/Func/Action - ConsoleUI/WinFormsUI
 
-1. delegate similar to interface, but only pass in method(s)
+1. delegate is similar to interface, but only passes in method(s)
 2. Func: the last parameter is output, "calculateDiscountedTotal" is the Func name when declaring.
 3. Action: returns void
 4. "(x => x.Price)" - Func ie. tpye of delegates
